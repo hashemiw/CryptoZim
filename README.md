@@ -5,7 +5,6 @@ A modern iOS cryptocurrency tracking application built with **SwiftUI** and **MV
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-6.2-orange?style=for-the-badge&logo=swift" />
   <img src="https://img.shields.io/badge/iOS-26.0+-blue?style=for-the-badge&logo=apple" />
-  <img src="https://img.shields.io/badge/SwiftUI-6.0+-blue?style=for-the-badge&logo=swift" />
   <img src="https://img.shields.io/badge/Architecture-MVVM-green?style=for-the-badge" />
 </p>
 
