@@ -65,9 +65,9 @@ A modern iOS cryptocurrency tracking application built with **SwiftUI** and **MV
 ## 📦 Installation
 
 ### Prerequisites
-- iOS 18.0+
-- Xcode 16.0+
-- Swift 6.0+
+- iOS 26.0+
+- Xcode 26.0+
+- Swift 6.2+
 
 ### Steps
 1. Clone the repository:
