@@ -3,9 +3,9 @@
 A modern iOS cryptocurrency tracking application built with **SwiftUI** and **MVVM architecture**. Monitor real-time cryptocurrency prices, view detailed charts, and track market movements with a beautiful, intuitive interface.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-6.0-orange?style=for-the-badge&logo=swift" />
-  <img src="https://img.shields.io/badge/iOS-18.0+-blue?style=for-the-badge&logo=apple" />
-  <img src="https://img.shields.io/badge/SwiftUI-5.0+-blue?style=for-the-badge&logo=swift" />
+  <img src="https://img.shields.io/badge/Swift-6.2-orange?style=for-the-badge&logo=swift" />
+  <img src="https://img.shields.io/badge/iOS-26.0+-blue?style=for-the-badge&logo=apple" />
+  <img src="https://img.shields.io/badge/SwiftUI-6.0+-blue?style=for-the-badge&logo=swift" />
   <img src="https://img.shields.io/badge/Architecture-MVVM-green?style=for-the-badge" />
 </p>
 
@@ -67,7 +67,7 @@ A modern iOS cryptocurrency tracking application built with **SwiftUI** and **MV
 ### Prerequisites
 - iOS 26.0+
 - Xcode 26.0+
-- Swift 6.2+
+- Swift 6.0+
 
 ### Steps
 1. Clone the repository:
